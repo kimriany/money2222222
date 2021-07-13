@@ -1,6 +1,6 @@
 function a(){
     var va = document.getElementById("net_worth")
-    var vvv = document.getElementById("net_worth")
+    var vvv = document.getElementById("net_worthh")
     var vv = vvv.value
     var v = parseInt(va.value);
     console.log(v);
